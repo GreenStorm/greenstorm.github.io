@@ -19,9 +19,10 @@ share:
   email: false
 
 social:
+  twitter: dungSpren
   linkedin: abdulkarim-al-abdulkarim-b4471378
   rss: feed.xml
-  twitter: dungSpren
+  
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
@@ -33,7 +34,7 @@ yandex_metrica:
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: greenstorm
-comments: false
+comments: true
 
 permalink: /:year/:month/:title
 
